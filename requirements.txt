@@ -3,3 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
+myMLpackage@git+https://github.com/wfa19/myMLpackage.git
